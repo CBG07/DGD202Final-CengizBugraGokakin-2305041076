@@ -1,7 +1,7 @@
 # ISUSpring2025-DGD202-FinalProject
 
 Istinye University
-DGD202: Game Engines 1 - Spring 2025 Final Project
+DGD202:- Spring 2025 Final Project
 
   
 ## Github Instructions:
@@ -47,4 +47,5 @@ In the example video you will see a pellet counter on the top left. That element
   
 ### TEST  
 You should test that everything is in working order  
+
 
